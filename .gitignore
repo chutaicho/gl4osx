@@ -1,0 +1,12 @@
+.DS_Store
+DerivedData/
+build/
+obj/
+
+bin/*.dSYM
+bin/GL4OSX
+
+# xcode files
+#*.xcodeproj
+#*.plist
+#*.xcconfig

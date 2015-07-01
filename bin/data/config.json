@@ -1,0 +1,14 @@
+{
+	"config": 
+	{
+		"debug": true,
+		"osc_listening": true,
+		"osc_port": "7777",
+		"width": 960,
+		"height": 540,
+		"timer_interval": 1.0,
+		"window_resizable": true,
+		"fullscreen": false,
+		"monitor_id": 0
+	}
+}

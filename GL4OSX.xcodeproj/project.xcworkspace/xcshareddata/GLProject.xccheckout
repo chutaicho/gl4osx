@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2B3B4FF9-5FF4-4CAD-9364-BDD2C20CD4B6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GLProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>503056C5411DA9F99077E51CD206302B68F688C2</key>
+		<string>https://backlog.ranagroup.jp:8443/backlog/git/DEV/GLProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GLProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>503056C5411DA9F99077E51CD206302B68F688C2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://backlog.ranagroup.jp:8443/backlog/git/DEV/GLProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>503056C5411DA9F99077E51CD206302B68F688C2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>503056C5411DA9F99077E51CD206302B68F688C2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GLProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
